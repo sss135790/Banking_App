@@ -1,7 +1,9 @@
 **INTRODUCTION**
+
 Built with Next.js, Horizon is a financial platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 
 **TECH STACK**
+
 Next.js
 TypeScript
 Appwrite
@@ -14,6 +16,7 @@ Chart.js
 ShadCN
 
 **FEATURES**
+
 1.Authentication: An ultra-secure SSR authentication with proper validations and authorization
 2.Connect Banks: Integrates with Plaid for multiple bank account linking
 3.Home Page: Shows general overview of user account with total balance from all connected banks, recent transactions, money spent on different categories, etc
